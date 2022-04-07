@@ -18,5 +18,12 @@ Syntax Testing:
 * List 1
 * List 2
 
+`inline code` with backticks
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
 
  
