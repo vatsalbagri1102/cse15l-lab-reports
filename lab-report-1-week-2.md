@@ -34,3 +34,5 @@ Lastly, to further smoothen the experience, one can combine commands and use the
 Combining commands can look like:- 
 
 **$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI**
+
+The command above improves the user experience by adding to the efficiency by cutting down the number of commands which have to be inputted. 
