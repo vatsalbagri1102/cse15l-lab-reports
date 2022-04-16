@@ -1,6 +1,6 @@
 # Lab Report for Week 1
 
-## Installing VS Cpde
+## Installing VS Code
 
 The first step for Week 1's lab project was to install VS Code. I already had VS code installed however for someone that wants to do it they can do it [here](https://code.visualstudio.com/). Once the VS code tab is open, it looks like:-
 ![image](vs-code-website.png)
