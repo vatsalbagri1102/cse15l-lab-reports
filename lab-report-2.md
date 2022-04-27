@@ -1,10 +1,16 @@
 # Lab Report 2 - Week 4
 
+## Code change diff
+
+Through all of the development, the commit history of my repository looks something like
+
+![image](lab-report-2-ss-2-commithistory.png)
+
 ## Failure inducing output
 
 During the past 2 weeks we focused on the ideas of incremental programming and debugging. The lab activities required us to fork a repository and write our own version of the Markdown parse. 
 
-When I wrote my own test file which looked something like [this](test-file1.md)
+When I wrote my own test file which looked something like [this](https://github.com/vatsalbagri1102/markdown-parser/blob/main/test-file1.md)
 
 ## Symptom of the failure inducing output
 
