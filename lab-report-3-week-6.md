@@ -1,5 +1,11 @@
 # Lab Report 3 - Week 6
 
+## Streamlining ssh Config
+
+created the config file and then logged in using the alias
+
+scp's a testfile into the home directory using the alias
+
 ## Setting up GitHub Actions
 
 I set up GitHub Actions in using the .yml file in the actions tab on my MarkDown repository. After that, I setup the multiline commands to compile and run the file as it can be seen in the image below:
