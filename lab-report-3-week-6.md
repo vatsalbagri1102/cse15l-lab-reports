@@ -11,19 +11,20 @@ Furthermore, rather than typing the entire address in the long form, I can use t
 ![image](lr3-1-2.png)
 
 
-## Setting up GitHub Actions
+## Setup GitHub access from ieng6
 
-I set up GitHub Actions in using the .yml file in the actions tab on my MarkDown repository. After that, I setup the multiline commands to compile and run the file as it can be seen in the image below:
+The first thing that I did for this is to create a ssh key for the remote server as it did not exist before. After following the tutorials, I copied this key and added it to the remote server. The process of creating this key and its private and public versions can be seen in the screenshots below:
 
-![image](lr3-1.png)
+![image](lr3-2-1.png)
+![image](lr3-2-2.png)
+![image](lr3-2-3.png)
 
-The tests that were run failed as I ran the test files with the error inducing input and that can be seen in the image below:
+The last screenshot shows the key on my github account, the one before that shows that it exists in my user account too.
 
-![image](lr3-2.png)
+Lastly, after creating a small change in the file, I used my user account github access to commit and push the change which can be seen in the following screenshots:
 
-Hence I setup GitHub actions. Now, to run it through my ieng6 account, I ssh'd into the server, wrote ls and then ran echo$? to get the output as 0 which is the exit status of the last command. This can be seen in the image below -
-
-![image](lr3-3.png)
+![image](lr3-2-5.png)
+![image](lr3-2-4.png)
 
 ## Copy entire directories with scp -r
 
