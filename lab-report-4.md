@@ -12,22 +12,29 @@ The link to both of the repositories is below:
 
 Upon writing the tests for each of the snippets and finding its expected output through the CommonMark website, the MarkdownParseTest file looked like the following:
 
-![image](lr4-1.png)
+![image](lr4-1-new.png)
+
+The file above shows the expected output as the data which is added to the ArrayList expected.
 
 After compiling and running the program, all of the tests fail as shown in the screenshot below:
 
-![image](lr4-2.png)
+![image](lr4-2-new.png)
+
+The red line shows the segmentation of each of the different tests. Moreover, the underlined code is what was actually returned by the MarkdownParser. 
 
 ## My work
 
 The tests for me looked really similar as the files being tested for the same. The screenshot below shows the test file:
 
-![image](lr4-3.png)
+![image](lr4-3-new.png)
+
+Again, the expected output can be seen in the tests that have been created. The tests return the actual URL of the site rather than the name under which it is stored. 
 
 The results for my code are similar where every test fails:
 
-![image](lr4-4.png)
+![image](lr4-4-new.png)
 
+For my work, the green lines show the segmentation of each of the different snippets. Similar to the example above, 
 ## Possible changes
 
 ### Snippet 1
