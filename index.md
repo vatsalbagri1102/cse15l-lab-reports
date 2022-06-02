@@ -16,3 +16,5 @@ test changes
 [lab report 3](https://vatsalbagri1102.github.io/cse15l-lab-reports/lab-report-3-week-6)
 
 [lab report 4](https://vatsalbagri1102.github.io/cse15l-lab-reports/lab-report-4)
+
+[lab report 5](https://vatsalbagri1102.github.io/cse15l-lab-reports/lab-report-5)
